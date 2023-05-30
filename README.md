@@ -1,2 +1,2 @@
 # Personal_Projects
-first personal project is a 2048 game.
+first personal project is a TicTacToe game.
