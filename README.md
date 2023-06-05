@@ -7,4 +7,4 @@ I'm working on making the bot Smart using machine learning and data science conc
 
 
 P.S: I still Haven't took any data science or machine learning Course Yet byt now this model is for me (an ambitious beginner with very little information about data science and machine learning) is like creating data science or machine learning from Zero.
-    N.B: I just wanted to challenge myself this is gonna be literally my first model. I still wish to continue studiying and learning.
+    N.B: I just wanted to challenge myself this is gonna be literally my first model. I still wish to continue studying and learning.
